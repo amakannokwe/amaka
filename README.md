@@ -1,0 +1,2 @@
+# amaka
+github practice
